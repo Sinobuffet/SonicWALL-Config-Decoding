@@ -1,1 +1,0 @@
-# SonicWALL-Config-Decoding
